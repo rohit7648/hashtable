@@ -1,3 +1,5 @@
+/* to map elements of a 3 by 3 table we use formula k=i/3*3+j/3 which will map first 3 by table in first row and son on */
+
 class Solution
 {
 public:
