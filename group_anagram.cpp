@@ -1,3 +1,6 @@
+/*In this code we have group a atring contain same character for that I stored each word of same character
+in a map then copied elements of that map into a new vector of string*/
+
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
